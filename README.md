@@ -5,7 +5,7 @@ This GitHub repository hosts a dynamic portfolio project created as part of an i
 
 ## Images
 
-<img src="https://github.com/nikhil16-11/portfolyo-assignment/blob/main/src/img/Screenshot%20(167).png?raw=true" alt="website image"/>
+<img src="https://github.com/nikhil16-11/portfolyo-assignment/blob/main/public/img/Screenshot%20(168).png?raw=true" alt="website image"/>
 
 ## Features
 Responsive Design: Optimal viewing across devices.
